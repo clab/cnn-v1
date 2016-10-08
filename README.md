@@ -1,3 +1,6 @@
+# cnn-v1
+Legacy version of CNN neural net toolkit  (now called [dynet](https://github.com/clab/dynet))
+
 # cnn
 C++ neural network library
 
